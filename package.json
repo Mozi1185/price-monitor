@@ -1,0 +1,11 @@
+{
+  "name": "price-monitor",
+  "version": "1.0.0",
+  "main": "price_monitor.js",
+  "scripts": {
+    "start": "node price_monitor.js"
+  },
+  "dependencies": {
+    "playwright": "^1.61.1"
+  }
+}
